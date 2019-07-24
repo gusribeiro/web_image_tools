@@ -1,6 +1,6 @@
 Adobe Script to optimize and resize imagens for web
 
-# How it work
+# How it works
 
 ## optimize.jsx
 - Open file with photoshop, select image folder and enjoy :)
